@@ -1,4 +1,4 @@
-week 14
+WEEK 14
 PROBLEM STATEMENT : ASSEMBLY LINE OBJECT COUNTER : Inductive sensor detects metal parts on conveyor, increment counter and send data to lcd serially
 CODE: #include <LiquidCrystal.h>
 
